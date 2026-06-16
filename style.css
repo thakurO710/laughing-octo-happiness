@@ -1,0 +1,31 @@
+CSS
+body {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+        }
+        #company-name {
+            font-size: 36px;
+        }
+        header {
+            color: white;
+            background-color: rgb(49, 49, 122);
+            text-align: center;
+        }
+        nav {
+            color: white;
+            background-color: rgb(120, 154, 182);
+            text-align: center;
+        }
+        footer {
+            color: white;
+            background-color: rgb(49, 49, 122);
+        }
+        text{
+            color: black;
+            text-align: justify;
+            font-style: italic;
+        }
+        .img {
+            float: right;
+            margin-right: 20px;
+        }
